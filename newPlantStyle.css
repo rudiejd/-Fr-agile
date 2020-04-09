@@ -1,0 +1,104 @@
+@charset "UTF-8";
+
+/* header */
+h1 {
+	text-align: center;
+	margin: 20px;
+	color: #717070;
+	margin-left: -50vw;
+        left: 50%;
+        width: 100vw;
+        position: relative;
+	background-color: white;
+	font-weight: bold;
+}
+
+/* body */
+body {
+	background-color: #f2f2f2;
+}
+
+/* rows */
+.form-row {
+        margin-left: -50vw;
+        left: 50%;
+        width: 100vw;
+        position: relative;
+}
+
+#row1 {
+	background-color: #6fd7de;
+}
+
+#row2 {
+	background-color: #2d9ab7;
+}
+
+#row3 {
+	background-color: #15728c;
+}
+
+#row4 {
+	background-color: #044557;
+}
+
+/* categories */
+#name {
+	color: white;
+	padding: 10px
+}
+
+#division {
+	color: white;
+	padding: 10px;
+}
+
+#class {
+	color: white;
+	padding: 10px;
+}
+
+#order {
+	color: white;
+	padding: 10px;
+}
+
+#family {
+	color: white;
+	padding: 10px;
+}
+
+#genus {
+	color: white;
+	padding: 10px;
+}
+
+#species {
+	color: white;
+	padding: 10px;
+}
+
+#variety {
+	color: white;
+	padding: 10px;	
+}
+
+/* buttons */
+.button {
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+}
+
+#buttons {
+	background-color: #717070;
+	margin-left: -50vw;
+        left: 50%;
+        width: 100vw;
+        position: relative;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+
